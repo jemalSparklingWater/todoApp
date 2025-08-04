@@ -1,0 +1,3 @@
+ background-image: linear-gradient(120deg, #FFA17F 0%, #00223E 100%);
+
+ https://uigradients.com/#Predawn

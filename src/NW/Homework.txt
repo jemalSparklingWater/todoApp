@@ -1,0 +1,32 @@
+
+
+Things we know:
+    map() => loops through an array and does some logic 
+    filter() => loops through an array and returns a filtered array
+        useful for when we want to get rid of something 
+
+    inputText - the text entered into inputfield and then passed to todos array
+    todos - array containing 'objects' {} - one for each todo 
+        three properties - text, completed, id 
+
+    
+    set functions are used to update inputText and todos 
+
+
+- Last thing we did - Added deleteHandler for todo component 
+
+
+HomeWork: (Old)
+    Add a complete handler for todo component 
+        think about how to update todos array
+        which property of the todo needs to change when complete is clicked
+        where to add this handler function in todo component 
+
+Homework: Lastest
+    - Right now we can add a empty todo to our list
+        - Write logic to prevent this 
+    - Will email exercise on '?' / map / filter 
+
+    form componentmeeds handler function
+
+    status handler gonna know and update and update set status and when you update satus 
